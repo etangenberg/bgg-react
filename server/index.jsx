@@ -15,7 +15,7 @@ if(process.env.NODE_ENV === 'development'){
 }
 
 app.get(['/'], function * (req,res) {
-        let index = yield fs.readFile('./public/index.html',"utf-8");
+        let index = await getBoardgames()
         res.send(index);
         });
 app.listen(port, '0.0.0.0', () => console.info(`App listening on ${port}`));

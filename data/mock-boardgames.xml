@@ -1,0 +1,646 @@
+
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+			<boardgame objectid="110308">
+			<name primary="true">7 Wonders: Catan</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
+			<boardgame objectid="123386">
+			<name primary="true">Baden-Württemberg Catan</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="13">
+			<name primary="true">Catan</name>			
+							<yearpublished>1995</yearpublished>
+					</boardgame>
+			<boardgame objectid="17419">
+			<name primary="true">CATAN 3D Collector&#039;s Edition</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="26352">
+			<name primary="true">Catan Austria / Wien meets Catan</name>			
+							<yearpublished>2004</yearpublished>
+					</boardgame>
+			<boardgame objectid="278">
+			<name primary="true">Catan Card Game</name>			
+							<yearpublished>1996</yearpublished>
+					</boardgame>
+			<boardgame objectid="21817">
+			<name primary="true">Catan Card Game: Artisans &amp; Benefactors</name>			
+							<yearpublished>2006</yearpublished>
+					</boardgame>
+			<boardgame objectid="12543">
+			<name primary="true">Catan Card Game: Barbarians &amp; Traders Upgrade Kit</name>			
+							<yearpublished>2003</yearpublished>
+					</boardgame>
+			<boardgame objectid="2915">
+			<name primary="true">Catan Card Game: Expansion Set</name>			
+							<yearpublished>2002</yearpublished>
+					</boardgame>
+			<boardgame objectid="27710">
+			<name primary="true">Catan Dice Game</name>			
+							<yearpublished>2007</yearpublished>
+					</boardgame>
+			<boardgame objectid="38845">
+			<name primary="true">Catan Dice Game Plus</name>			
+							<yearpublished>2007</yearpublished>
+					</boardgame>
+			<boardgame objectid="39624">
+			<name primary="true">Catan Dice Game XXL Variant</name>			
+							<yearpublished>2008</yearpublished>
+					</boardgame>
+			<boardgame objectid="86008">
+			<name primary="true">Catan Geographies: Austria</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="60134">
+			<name primary="true">Catan Geographies: Bayern Edition</name>			
+							<yearpublished>2009</yearpublished>
+					</boardgame>
+			<boardgame objectid="149857">
+			<name primary="true">Catan Geographies: Corsica</name>			
+							<yearpublished>2013</yearpublished>
+					</boardgame>
+			<boardgame objectid="173651">
+			<name primary="true">Catan Geographies: Georgia</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="38749">
+			<name primary="true">Catan Geographies: Germany</name>			
+							<yearpublished>2008</yearpublished>
+					</boardgame>
+			<boardgame objectid="238135">
+			<name primary="true">Catan Geographies: Hawaii</name>			
+							<yearpublished>2017</yearpublished>
+					</boardgame>
+			<boardgame objectid="202788">
+			<name primary="true">Catan Geographies: Kennessee</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="131362">
+			<name primary="true">Catan Geographies: Mallorca</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="39093">
+			<name primary="true">Catan Geographies: North Rhine – Westphalia</name>			
+							<yearpublished>2008</yearpublished>
+					</boardgame>
+			<boardgame objectid="32270">
+			<name primary="true">Catan Geographies: Settlers of Hesse</name>			
+							<yearpublished>2007</yearpublished>
+					</boardgame>
+			<boardgame objectid="103091">
+			<name primary="true">Catan Histories: Merchants of Europe</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
+			<boardgame objectid="67239">
+			<name primary="true">Catan Histories: Settlers of America – Trails to Rails</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="25234">
+			<name primary="true">Catan Histories: Struggle for Rome</name>			
+							<yearpublished>2006</yearpublished>
+					</boardgame>
+			<boardgame objectid="184842">
+			<name primary="true">Catan Junior</name>			
+							<yearpublished>2014</yearpublished>
+					</boardgame>
+			<boardgame objectid="140743">
+			<name primary="true">Catan Junior Madagascar</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="211081">
+			<name primary="true">Catan Länderszenarien: Polen</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="187366">
+			<name primary="true">Catan Länderszenarien: Rickshaw Run</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="186395">
+			<name primary="true">Catan Scenarios: Big Game Big Honor</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="196928">
+			<name primary="true">Catan Scenarios: Catanimals</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="131958">
+			<name primary="true">Catan Scenarios: Frenemies</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="86669">
+			<name primary="true">Catan Scenarios: Helpers of Catan</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="110794">
+			<name primary="true">Catan Scenarios: Oil Springs</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
+			<boardgame objectid="189097">
+			<name primary="true">Catan Scenarios: Santa Claus</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="167573">
+			<name primary="true">Catan World Championship Berlin 2014 Special</name>			
+							<yearpublished>2014</yearpublished>
+					</boardgame>
+			<boardgame objectid="2807">
+			<name primary="true">Catan: 5-6 Player Extension</name>			
+							<yearpublished>1996</yearpublished>
+					</boardgame>
+			<boardgame objectid="183139">
+			<name primary="true">Catan: 999 Games 25 jaar Expansion</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="161527">
+			<name primary="true">Catan: Ancient Egypt</name>			
+							<yearpublished>2014</yearpublished>
+					</boardgame>
+			<boardgame objectid="182880">
+			<name primary="true">Catan: Big Box</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="191710">
+			<name primary="true">Catan: Big Box</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="194097">
+			<name primary="true">Catan: Big Game Event Kit</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="176966">
+			<name primary="true">Catan: Catan Day 2015 Exclusive Expansion</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="241494">
+			<name primary="true">Catan: Chocolate Edition</name>			
+							<yearpublished>2017</yearpublished>
+					</boardgame>
+			<boardgame objectid="926">
+			<name primary="true">Catan: Cities &amp; Knights</name>			
+							<yearpublished>1998</yearpublished>
+					</boardgame>
+			<boardgame objectid="4101">
+			<name primary="true">Catan: Cities &amp; Knights – 5-6 Player Extension</name>			
+							<yearpublished>2000</yearpublished>
+					</boardgame>
+			<boardgame objectid="211557">
+			<name primary="true">Catan: Das Duell – Sonderkarte 2016: 20 Jahre Catan, das Spiel für 2</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="212234">
+			<name primary="true">Catan: Das Duell – Sonderkarte 2016: Michael der Wagemutige</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="238673">
+			<name primary="true">Catan: Das Duell – Sonderkarte 2017: Isabell, die Handelsagentin</name>			
+							<yearpublished>2017</yearpublished>
+					</boardgame>
+			<boardgame objectid="73809">
+			<name primary="true">Catan: Delmarva</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="244144">
+			<name primary="true">Catan: Der Aufstieg der Inka</name>			
+							<yearpublished>2018</yearpublished>
+					</boardgame>
+			<boardgame objectid="20038">
+			<name primary="true">Catan: Event Cards</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="135378">
+			<name primary="true">Catan: Explorers &amp; Pirates</name>			
+							<yearpublished>2013</yearpublished>
+					</boardgame>
+			<boardgame objectid="144419">
+			<name primary="true">Catan: Explorers &amp; Pirates – 5-6 Player Extension</name>			
+							<yearpublished>2013</yearpublished>
+					</boardgame>
+			<boardgame objectid="147240">
+			<name primary="true">Catan: Family Edition</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="54528">
+			<name primary="true">Catan: Indiana &amp; Ohio</name>			
+							<yearpublished>2009</yearpublished>
+					</boardgame>
+			<boardgame objectid="125921">
+			<name primary="true">Catan: Junior</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="143249">
+			<name primary="true">Catan: New England</name>			
+							<yearpublished>2013</yearpublished>
+					</boardgame>
+			<boardgame objectid="132481">
+			<name primary="true">Catan: New York</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="101942">
+			<name primary="true">Catan: Penn/Jersey</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
+			<boardgame objectid="222396">
+			<name primary="true">Catan: Playmat Atoll</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="222394">
+			<name primary="true">Catan: Playmat Desert</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="222393">
+			<name primary="true">Catan: Playmat Gold</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="222395">
+			<name primary="true">Catan: Playmat Island</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="3972">
+			<name primary="true">Catan: Portable Edition</name>			
+							<yearpublished>2002</yearpublished>
+					</boardgame>
+			<boardgame objectid="181471">
+			<name primary="true">Catan: Schokoladen Edition</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="325">
+			<name primary="true">Catan: Seafarers</name>			
+							<yearpublished>1997</yearpublished>
+					</boardgame>
+			<boardgame objectid="223171">
+			<name primary="true">Catan: Seafarers Scenario – Legend of the Sea Robbers</name>			
+							<yearpublished>2017</yearpublished>
+					</boardgame>
+			<boardgame objectid="4103">
+			<name primary="true">Catan: Seafarers – 5-6 Player Extension</name>			
+							<yearpublished>1999</yearpublished>
+					</boardgame>
+			<boardgame objectid="217947">
+			<name primary="true">Catan: Seefahrer – 20 Jahre Jubiläums-Edition</name>			
+							<yearpublished>2017</yearpublished>
+					</boardgame>
+			<boardgame objectid="169486">
+			<name primary="true">Catan: The Carolinas</name>			
+							<yearpublished>2014</yearpublished>
+					</boardgame>
+			<boardgame objectid="27760">
+			<name primary="true">Catan: Traders &amp; Barbarians</name>			
+							<yearpublished>2007</yearpublished>
+					</boardgame>
+			<boardgame objectid="34691">
+			<name primary="true">Catan: Traders &amp; Barbarians – 5-6 Player Extension</name>			
+							<yearpublished>2008</yearpublished>
+					</boardgame>
+			<boardgame objectid="172994">
+			<name primary="true">Catan: Traveler – Compact Edition</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="222582">
+			<name primary="true">Catan: World Championship Durango 2016 Special</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="13831">
+			<name primary="true">The Communication in Catan</name>			
+							<yearpublished>2000</yearpublished>
+					</boardgame>
+			<boardgame objectid="118173">
+			<name primary="true">Die Fürsten von Catan: Sonderkarte 2011 – Carol, die Spieleerklärerin</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
+			<boardgame objectid="168216">
+			<name primary="true">Die Fürsten von Catan: Sonderkarte 2014 – Arnd, der Fischer</name>			
+							<yearpublished>2014</yearpublished>
+					</boardgame>
+			<boardgame objectid="131707">
+			<name primary="true">Die Fürsten von Catan: Sonderkarte Frühjahr 2012 – Catan Mobil</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="229218">
+			<name primary="true">A Game of Thrones: Catan – Brotherhood of the Watch</name>			
+							<yearpublished>2017</yearpublished>
+					</boardgame>
+			<boardgame objectid="128751">
+			<name primary="true">Heroes &amp; Capitols (fan expansion for Settlers of Catan)</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="91061">
+			<name primary="true">Hexen, Zauberer &amp; Drachen (Fan expansion to Catan: Cities and Knights)</name>			
+							<yearpublished>2001</yearpublished>
+					</boardgame>
+			<boardgame objectid="5824">
+			<name primary="true">The Kids of Catan</name>			
+							<yearpublished>2003</yearpublished>
+					</boardgame>
+			<boardgame objectid="89606">
+			<name primary="true">Kirche, Glaube &amp; Reformation (Fan expansion to Catan: Cities and Knights)</name>			
+							<yearpublished>2002</yearpublished>
+					</boardgame>
+			<boardgame objectid="21101">
+			<name primary="true">De Kolonisten van Catan: De Diamanten</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="41161">
+			<name primary="true">De Kolonisten van Catan: De drie Handelsteden van Noord-Nederland</name>			
+							<yearpublished>2009</yearpublished>
+					</boardgame>
+			<boardgame objectid="21097">
+			<name primary="true">De Kolonisten van Catan: De Koloniën</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="21443">
+			<name primary="true">De Kolonisten van Catan: De Specialisten</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="21100">
+			<name primary="true">De Kolonisten van Catan: De Wereldwonderen</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="21098">
+			<name primary="true">De Kolonisten van Catan: De Woestijnruiters</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="21099">
+			<name primary="true">De Kolonisten van Catan: Het Grote Kanaal</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="37774">
+			<name primary="true">De Kolonisten van Catan: Het Kaartspel – Goud &amp; Piraten</name>			
+							<yearpublished>2001</yearpublished>
+					</boardgame>
+			<boardgame objectid="33562">
+			<name primary="true">De Kolonisten van Catan: Wegwerpcatan</name>			
+							<yearpublished>2007</yearpublished>
+					</boardgame>
+			<boardgame objectid="90100">
+			<name primary="true">Die Pioniere (fan expansion for The Settlers of Catan)</name>			
+					</boardgame>
+			<boardgame objectid="66056">
+			<name primary="true">Rivals for Catan</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="93401">
+			<name primary="true">Rivals for Catan: Age of Darkness</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
+			<boardgame objectid="127437">
+			<name primary="true">The Rivals for Catan: Age of Enlightenment</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="133042">
+			<name primary="true">The Rivals for Catan: Alexander and Sebastian, the Bookkeepers</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="88610">
+			<name primary="true">The Rivals for Catan: Axel the Innovator</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="203219">
+			<name primary="true">Rivals for Catan: Deluxe</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="247494">
+			<name primary="true">Rivals for Catan: Deluxe – Promo Card Pack</name>			
+							<yearpublished>2016</yearpublished>
+					</boardgame>
+			<boardgame objectid="149833">
+			<name primary="true">The Rivals for Catan: Gavin the Polyglot</name>			
+							<yearpublished>2013</yearpublished>
+					</boardgame>
+			<boardgame objectid="186788">
+			<name primary="true">The Rivals for Catan: Heiko the Master Swimmer</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="111255">
+			<name primary="true">The Rivals for Catan: Johannes the Advocate</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
+			<boardgame objectid="186215">
+			<name primary="true">The Rivals for Catan: Participation in the Big Game</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="186789">
+			<name primary="true">The Rivals for Catan: Ron the Well-Travelled Man</name>			
+							<yearpublished>2015</yearpublished>
+					</boardgame>
+			<boardgame objectid="22598">
+			<name primary="true">Saggsen-Gadan: De säggs&#039;schn Siedler / Catan-OFFENSIVE in Chemnitz</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="152959">
+			<name primary="true">The Settlers of Catan: 15th Anniversary Wood Edition</name>			
+							<yearpublished>2008</yearpublished>
+					</boardgame>
+			<boardgame objectid="38821">
+			<name primary="true">Settlers of Catan: Gallery Edition</name>			
+							<yearpublished>2008</yearpublished>
+					</boardgame>
+			<boardgame objectid="20899">
+			<name primary="true">Settlers of Catan: Rockman Edition</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="19343">
+			<name primary="true">The Settlers of Catan: The Fishermen of Catan</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="20247">
+			<name primary="true">The Settlers of Catan: The Great River</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="10817">
+			<name primary="true">Settlers of New Catan (and extra modules)</name>			
+							<yearpublished>2004</yearpublished>
+					</boardgame>
+			<boardgame objectid="21046">
+			<name primary="true">Die Siedler von Catan: Atlantis – Szenarien &amp; Varianten</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="1137">
+			<name primary="true">Die Siedler von Catan: Das Buch zum Spielen</name>			
+							<yearpublished>2000</yearpublished>
+					</boardgame>
+			<boardgame objectid="22766">
+			<name primary="true">Die Siedler von Catan: Das Kartenspiel – 10th Anniversary Special Edition Tin Box</name>			
+							<yearpublished>2006</yearpublished>
+					</boardgame>
+			<boardgame objectid="122250">
+			<name primary="true">Die Siedler von Catan: Das Kartenspiel – Sonderkarte 2002 – Johanna, die Kriegerin</name>			
+							<yearpublished>2002</yearpublished>
+					</boardgame>
+			<boardgame objectid="97596">
+			<name primary="true">Die Siedler von Catan: Das Kartenspiel – Sonderkarte 2003 – Guido, der große Diplomat</name>			
+							<yearpublished>2003</yearpublished>
+					</boardgame>
+			<boardgame objectid="97594">
+			<name primary="true">Die Siedler von Catan: Das Kartenspiel – Sonderkarte 2004 – Benjamin, der treue Vasall</name>			
+							<yearpublished>2004</yearpublished>
+					</boardgame>
+			<boardgame objectid="97593">
+			<name primary="true">Die Siedler von Catan: Das Kartenspiel – Sonderkarte 2005 – Irmgard, Bewahrerin des Lichts</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="97591">
+			<name primary="true">Die Siedler von Catan: Das Kartenspiel – Sonderkarte 2006 – Emi&#039;Ly, Bewahrerin der Harmonie</name>			
+							<yearpublished>2006</yearpublished>
+					</boardgame>
+			<boardgame objectid="97590">
+			<name primary="true">Die Siedler von Catan: Das Kartenspiel – Sonderkarte 2007 – Arnd, der findige Knappe</name>			
+							<yearpublished>2007</yearpublished>
+					</boardgame>
+			<boardgame objectid="97541">
+			<name primary="true">Die Siedler von Catan: Das Kartenspiel – Sonderkarte 2008 – Gustav und Reiner, Helfer der Ratlosen</name>			
+							<yearpublished>2008</yearpublished>
+					</boardgame>
+			<boardgame objectid="97540">
+			<name primary="true">Die Siedler von Catan: Das Kartenspiel – Sonderkarte 2009 – Franz vohm Winkel</name>			
+							<yearpublished>2009</yearpublished>
+					</boardgame>
+			<boardgame objectid="137594">
+			<name primary="true">Die Siedler von Catan: Das Mini-Spiel</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="132700">
+			<name primary="true">Die Siedler von Catan: Das schnelle Kartenspiel – Stadtausbau Kathedrale</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="5227">
+			<name primary="true">Die Siedler von Catan: Das Turnier-Set zum Kartenspiel</name>			
+							<yearpublished>1997</yearpublished>
+					</boardgame>
+			<boardgame objectid="47410">
+			<name primary="true">Die Siedler von Catan: Das Würfelspiel – XXL-Ausgabe</name>			
+							<yearpublished>2009</yearpublished>
+					</boardgame>
+			<boardgame objectid="84977">
+			<name primary="true">Die Siedler von Catan: Der Schokoladenmarkt</name>			
+							<yearpublished>2010</yearpublished>
+					</boardgame>
+			<boardgame objectid="26079">
+			<name primary="true">Die Siedler von Catan: Die große Karawane</name>			
+							<yearpublished>2006</yearpublished>
+					</boardgame>
+			<boardgame objectid="37969">
+			<name >Die Siedler von Catan: Die Siedler von Luxemburg</name>			
+							<yearpublished>2008</yearpublished>
+					</boardgame>
+			<boardgame objectid="64159">
+			<name primary="true">Die Siedler von Catan: Einsteiger-Variante</name>			
+							<yearpublished>2009</yearpublished>
+					</boardgame>
+			<boardgame objectid="167836">
+			<name primary="true">Die Siedler von Catan: Hispania Edition</name>			
+							<yearpublished>2014</yearpublished>
+					</boardgame>
+			<boardgame objectid="306">
+			<name primary="true">Die Siedler von Catan: Historische Szenarien</name>			
+							<yearpublished>1998</yearpublished>
+					</boardgame>
+			<boardgame objectid="1361">
+			<name primary="true">Die Siedler von Catan: Historische Szenarien II</name>			
+							<yearpublished>2001</yearpublished>
+					</boardgame>
+			<boardgame objectid="167841">
+			<name primary="true">Die Siedler von Catan: Hochzeitsturm</name>			
+							<yearpublished>2014</yearpublished>
+					</boardgame>
+			<boardgame objectid="27766">
+			<name primary="true">Die Siedler von Catan: Junior</name>			
+							<yearpublished>2007</yearpublished>
+					</boardgame>
+			<boardgame objectid="29715">
+			<name primary="true">Die Siedler von Catan: Kartenspiel – Handel &amp; Wandel</name>			
+							<yearpublished>1999</yearpublished>
+					</boardgame>
+			<boardgame objectid="155354">
+			<name primary="true">Die Siedler von Catan: Kartenspiel – Kämpfer &amp; Kaufleute</name>			
+							<yearpublished>2003</yearpublished>
+					</boardgame>
+			<boardgame objectid="154961">
+			<name primary="true">Die Siedler von Catan: Kartenspiel – Magier &amp; Forscher</name>			
+							<yearpublished>2003</yearpublished>
+					</boardgame>
+			<boardgame objectid="29716">
+			<name primary="true">Die Siedler von Catan: Kartenspiel – Politik &amp; Intrige</name>			
+							<yearpublished>1999</yearpublished>
+					</boardgame>
+			<boardgame objectid="29718">
+			<name primary="true">Die Siedler von Catan: Kartenspiel – Ritter &amp; Händler</name>			
+							<yearpublished>1999</yearpublished>
+					</boardgame>
+			<boardgame objectid="29717">
+			<name primary="true">Die Siedler von Catan: Kartenspiel – Wissenschaft &amp; Fortschritt</name>			
+							<yearpublished>1999</yearpublished>
+					</boardgame>
+			<boardgame objectid="29714">
+			<name primary="true">Die Siedler von Catan: Kartenspiel – Zauberer &amp; Drachen</name>			
+							<yearpublished>1999</yearpublished>
+					</boardgame>
+			<boardgame objectid="19008">
+			<name primary="true">Die Siedler von Catan: Paper &amp; Pencil</name>			
+							<yearpublished>2005</yearpublished>
+					</boardgame>
+			<boardgame objectid="31933">
+			<name primary="true">Die Siedler von Catan: Renaissance in der Steiermark &amp; Burgbau auf Chaffenberch</name>			
+							<yearpublished>2007</yearpublished>
+					</boardgame>
+			<boardgame objectid="37690">
+			<name primary="true">Die Siedler von Catan: Rincewind und der Tourist  /  Die Gilden von Ankh-Morpork</name>			
+							<yearpublished>2008</yearpublished>
+					</boardgame>
+			<boardgame objectid="56157">
+			<name primary="true">Die Siedler von Catan: Schätze, Drachen &amp; Entdecker</name>			
+							<yearpublished>2009</yearpublished>
+					</boardgame>
+			<boardgame objectid="111377">
+			<name primary="true">Die Siedler von Catan: Thüringen Edition</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
+			<boardgame objectid="24511">
+			<name primary="true">Simply Catan</name>			
+							<yearpublished>2006</yearpublished>
+					</boardgame>
+			<boardgame objectid="117985">
+			<name primary="true">Star Trek: Catan</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+			<boardgame objectid="143948">
+			<name primary="true">Star Trek: Catan – Federation Space Map Set</name>			
+							<yearpublished>2013</yearpublished>
+					</boardgame>
+			<boardgame objectid="1897">
+			<name primary="true">Starfarers of Catan</name>			
+							<yearpublished>1999</yearpublished>
+					</boardgame>
+			<boardgame objectid="4100">
+			<name primary="true">Starfarers of Catan: 5-6 Player Expansion</name>			
+							<yearpublished>2001</yearpublished>
+					</boardgame>
+			<boardgame objectid="2338">
+			<name primary="true">Starship Catan</name>			
+							<yearpublished>2001</yearpublished>
+					</boardgame>
+			<boardgame objectid="28115">
+			<name primary="true">Starship Catan: 1st Mission – The Space Amoeba</name>			
+							<yearpublished>2003</yearpublished>
+					</boardgame>
+			<boardgame objectid="28201">
+			<name primary="true">Starship Catan: 2. Mission – The Asteroid</name>			
+							<yearpublished>2003</yearpublished>
+					</boardgame>
+			<boardgame objectid="28200">
+			<name primary="true">Starship Catan: 3. Mission – The Diplomatic Station</name>			
+							<yearpublished>2004</yearpublished>
+					</boardgame>
+			<boardgame objectid="91534">
+			<name primary="true">Struggle for Catan</name>			
+							<yearpublished>2011</yearpublished>
+					</boardgame>
+			<boardgame objectid="144418">
+			<name primary="true">Wien Catan</name>			
+							<yearpublished>2013</yearpublished>
+					</boardgame>
+			<boardgame objectid="134277">
+			<name primary="true">World Wonders (fan expansion to Catan)</name>			
+							<yearpublished>2012</yearpublished>
+					</boardgame>
+	</boardgames>
