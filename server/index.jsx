@@ -4,7 +4,7 @@ import fs from 'fs-extra';
 import webpack from 'webpack';
 import {argv} from 'optimist';
 import {get} from 'request-promise';
-import getBoardgames from './getBoardgames';
+import getBoardgames, {getBoardgamesAPI} from './getBoardgames';
 
 const port = process.env.PORT || 3000;
 const app = new express();
@@ -19,26 +19,37 @@ if(process.env.NODE_ENV === 'development'){
     app.use(require('webpack-hot-middleware')(compiler));
 }
 
+
+const handleGamesData = (readData) => {
+    return new Promise(function (fulfill, reject){
+        try
+        {
+            console.log('stringify data');
+            const raw = JSON.stringify(data);
+            //console.log(raw);           
+            fulfill(raw);
+        }                   
+        catch(ex)
+        {
+            console.error('getboardgames failed with: '+ ex);
+            reject(ex);
+        }
+    });
+}
+
 app.get(['/api/boardgames'], async function (req,res) {
 
+    if(useLiveData){
+        getBoardgamesAPI('Carcassonne')
+        //.then(handleGamesData)
+        .then(data => res.json(data))
+        .catch(err => console.log('error fetching boardgame data : '+err));
+    }else{
         getBoardgames('./data/mock-boardgames.xml')
-        .then(data =>
-            {
-                try
-                {
-                    // console.dir(data);
-                    const raw = JSON.stringify(data);
-                    //console.log(raw);
-                    res.json(raw);
-                }                
-                catch(ex)
-                {
-                    console.error('getboardgames failed with {ex}');
-                }
-            },
-            (data)=>{
-                    console.error('getboardgames failed {data}');
-            });
+        //.then(handleGamesData)
+        .then(data => res.json(data))
+        .catch(err => console.log('error fetching boardgame data : '+err));
+    }
 });
 
 app.listen(port, '0.0.0.0', () => console.info(`App listening on ${port}`));
