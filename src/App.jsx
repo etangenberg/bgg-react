@@ -1,13 +1,14 @@
 import React from 'react';
 import { connect } from 'react-redux';
 
-const AppDisplay = () => {
+const AppDisplay = ({test}) => {
   <div>
     <h1>
-      Isomorphic react.
+      Isomorphic react {test}
     </h1>
   </div>
 };
+
 const mapStateToProps = (state, ownProps)=>
 {
   return{

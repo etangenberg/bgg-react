@@ -44,7 +44,7 @@ function xmlToJson(xml) {
 	return obj;
 };
 
-export default function readFile(filename, enc){
+export function readFile(filename, enc){
     return new Promise(function (fulfill, reject){
         fs.readFile(filename, enc, (readError, readData) =>{
             if(readError){
@@ -59,11 +59,12 @@ export default function readFile(filename, enc){
     });
 }
 
-export function getBoardgames(filename){
+export default function getBoardgames(filename){
+	console.log('Read file {filename}.');
     return new Promise(function (fulfill, reject){
-        readFile(filename, 'utf8')
+        readFile(filename, 'utf-8')
         .then((readData) => {
-            const parser = new xml2js.Parser({explicitArray : false});
+            const parser = new xml2js.Parser();
             parser.parseString(readData, (err, res)=> {
                 if (err){ 
                     console.error(err);
