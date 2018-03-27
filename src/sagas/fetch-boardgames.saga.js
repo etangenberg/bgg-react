@@ -6,7 +6,7 @@ export default function * fetchBoardgamesSaga(){
         yield take('REQUEST_FETCH_BOARDGAMES');
         const raw = yield fetch('/api/boardgames/catan');
         const json = yield raw.json();
-        const games = json.boardgames;
+        const games = json.boardgames.boardgame;
         console.log("Got games:",games);
         yield put({type:'FETCHED_BOARDGAMES', games});
     }
