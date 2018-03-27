@@ -5,6 +5,11 @@ import getStore from './getStore';
 import {Provider} from 'react-redux';
 
 const store = getStore();
+
+const fetchDataForLocation = () => {
+    store.dispatch({type:'REQUEST_FETCH_BOARDGAMES'});
+}
+
 const render = (_App) => {
     ReactDOM.render(
         <Provider store={store}>
@@ -16,3 +21,5 @@ const render = (_App) => {
 }
 
 render(App);
+
+fetchDataForLocation();
