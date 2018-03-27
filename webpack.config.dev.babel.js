@@ -56,6 +56,7 @@ export default {
             }
         })
     ],
+    
     /**
      * Resolve allows files to be imported without specifying an extension as long as they match one specified, i.e.
      * import component from './component'
@@ -73,6 +74,7 @@ export default {
                 use: {
                     loader: 'babel-loader'
                 },
+                
                 include: path.resolve(__dirname, 'src'),
             },
         ]
