@@ -15,8 +15,8 @@ if(process.env.NODE_ENV === 'development'){
     const config = require('../webpack.config.dev.babel').default;
     const compiler = webpack(config);
     
-    app.use(require('webpack-dev-middleware')(compiler, {noinfo: true}));
-    app.use(require('webpack-hot-middleware')(compiler));
+    app.use(require('webpack-dev-middleware')(compiler, { noInfo:true}));
+    app.use(require('webpack-hot-middleware')(compiler,{ noInfo:true}));
 }
 
 
@@ -37,10 +37,11 @@ const handleGamesData = (readData) => {
     });
 }
 
-app.get(['/api/boardgames'], async function (req,res) {
-
+app.get(['/api/boardgames/:search'], async function (req,res) {
     if(useLiveData){
-        getBoardgamesAPI('Carcassonne')
+        const searchTerm = req.params.search;
+        console.log('search term = '+searchTerm);  
+        getBoardgamesAPI(searchTerm)
         //.then(handleGamesData)
         .then(data => res.json(data))
         .catch(err => console.log('error fetching boardgame data : '+err));
@@ -50,6 +51,11 @@ app.get(['/api/boardgames'], async function (req,res) {
         .then(data => res.json(data))
         .catch(err => console.log('error fetching boardgame data : '+err));
     }
+});
+
+app.get(['/','/api/boardgames'], function * (req,res ){
+    let index = yield fs.readFile('./public/index.html',"utf-8");
+    res.send(index);
 });
 
 app.listen(port, '0.0.0.0', () => console.info(`App listening on ${port}`));
