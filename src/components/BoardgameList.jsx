@@ -1,9 +1,19 @@
 import React from 'react';
 import {connect} from 'react-redux';
 
-const Boardgame = ({$, name}) => (
+const GameListDetails = () => (
+    <div> 
+        <code>{this.props.year}</code>
+    </div>
+);
+
+const BoardgameItem = ({$, name, yearpublished, ...details}) => (
     <div>
-        <h4>{name[0]._}</h4>
+        <h6>{name[0]._}</h6>
+        <div>
+            <code>{yearpublished}</code>
+            {/* <GameListDetails year={yearpublished[0]._} {...details} /> */}
+        </div>
     </div>
 )
 
@@ -14,7 +24,7 @@ const BoardgameList = ({boardgames}) => {
     {    
        boardgames && boardgames.length ?
         <div>
-        {boardgames.map(game => <Boardgame key={game.$.objectid} {...game}/>)}
+        {boardgames.map(game => <BoardgameItem key={game.$.objectid} {...game}/>)}
         </div> 
         :
         <div>Getting games...{boardgames.length}</div>
